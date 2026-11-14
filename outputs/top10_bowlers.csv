@@ -1,0 +1,11 @@
+player_id,rank,name,last_team,ipl_team,p_balls,pressure_innings,p_wkts,p_econ,b_econ,p_bpw,level,ordinary_level,lift,consistency,score,boot_median_rank,boot_prob_top10,ipl_pressure_balls
+2933,1,Jasprit Bumrah,India,Mumbai Indians,325,41,6,7.06,7.177,54.167,31.75,25.152,6.597,0.615,2.932,4.0,0.8,289
+8661,2,Matheesha Pathirana,Kolkata Knight Riders,Kolkata Knight Riders,234,25,18,8.856,8.512,13.0,23.584,17.159,6.425,0.709,2.415,4.0,0.837,153
+4722,3,Rashid Khan,Afghanistan,Gujarat Titans,493,54,27,7.594,7.323,18.259,16.34,9.325,7.016,0.638,1.68,13.0,0.433,337
+39657,4,Eshan Malinga,Sri Lanka,Sunrisers Hyderabad,155,20,13,8.865,9.655,11.923,12.151,-2.719,14.869,0.698,1.631,6.0,0.637,92
+781,5,Sunil Narine,Kolkata Knight Riders,Kolkata Knight Riders,359,40,20,7.929,6.54,17.95,18.077,20.078,-2.001,0.524,1.394,16.0,0.27,359
+4641,6,Lungi Ngidi,Delhi Capitals,Delhi Capitals,195,22,12,9.12,8.834,16.25,13.008,1.961,11.046,0.564,1.355,12.0,0.467,102
+1944,7,Keshav Maharaj,South Africa,Rajasthan Royals,132,18,12,8.109,8.531,11.0,8.935,-4.775,13.711,0.683,1.3,8.0,0.573,2
+7364,8,Haris Rauf,Pakistan,(no IPL),192,23,14,9.0,8.478,13.714,10.843,4.823,6.02,0.665,1.243,16.0,0.387,0
+7920,9,Nathan Ellis,Australia,Chennai Super Kings,200,17,13,9.18,7.943,15.385,14.691,16.075,-1.384,0.582,1.232,21.0,0.257,72
+2984,10,Sikandar Raza,Zimbabwe,Punjab Kings,128,20,5,5.859,7.2,25.6,10.181,1.834,8.347,0.589,1.099,15.0,0.333,11

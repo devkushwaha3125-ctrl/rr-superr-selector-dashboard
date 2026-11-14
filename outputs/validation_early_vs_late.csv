@@ -1,0 +1,9 @@
+group,method,n_players,spearman_vs_later_pressure
+Batters,This model (level only),80,0.1502344116268167
+Batters,This model (final weights),80,0.11282231598687295
+Batters,Naive: early pressure net/ball,80,0.08187998124706986
+Batters,Naive: early ordinary net/ball,80,0.16854195968120023
+Bowlers,This model (level only),63,0.22379032258064516
+Bowlers,This model (final weights),63,0.21346966205837173
+Bowlers,Naive: early pressure net/ball,63,0.18524385560675885
+Bowlers,Naive: early ordinary net/ball,63,0.12960829493087558
