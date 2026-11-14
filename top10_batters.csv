@@ -1,0 +1,11 @@
+player_id,rank,name,last_team,ipl_team,p_balls,pressure_innings,p_runs,p_outs,p_sr,b_sr,p_avg,p_boundary_pct,level,ordinary_level,lift,consistency,score,boot_median_rank,boot_prob_top10,ipl_pressure_balls
+6281,1,Abhishek Sharma,India,Sunrisers Hyderabad,267,47,494,12,185.019,186.566,41.167,30.712,45.869,43.67,2.199,0.693,2.605,3.0,0.837,141
+4260,2,Heinrich Klaasen,Sunrisers Hyderabad,Sunrisers Hyderabad,403,37,624,12,154.839,171.897,52.0,18.859,33.467,14.817,18.649,0.746,2.205,5.0,0.837,358
+5553,3,Phil Salt,England,Royal Challengers Bengaluru,225,32,393,10,174.667,170.19,39.3,26.667,36.463,29.038,7.424,0.663,2.003,9.0,0.56,103
+7216,4,Prabhsimran Singh,Punjab Kings,Punjab Kings,203,26,387,10,190.64,152.685,38.7,29.557,27.803,6.726,21.077,0.715,1.802,6.0,0.643,203
+4736,5,Josh Inglis,Australia,Lucknow Super Giants,138,20,236,7,171.014,163.26,33.714,24.638,28.853,15.918,12.935,0.709,1.678,9.0,0.593,47
+6396,6,Tim David,Australia,Royal Challengers Bengaluru,514,52,849,27,165.175,186.107,31.444,22.568,32.107,21.13,10.977,0.588,1.638,11.0,0.47,247
+768,7,Reeza Hendricks,South Africa,(no IPL),137,16,235,4,171.533,142.41,58.75,24.818,27.489,6.548,20.941,0.625,1.609,9.0,0.573,0
+1699,8,Suryakumar Yadav,Mumbai Indians,Mumbai Indians,451,56,705,17,156.319,168.524,41.471,21.286,29.425,21.619,7.806,0.521,1.251,23.5,0.213,302
+2367,9,Travis Head,Sunrisers Hyderabad,Sunrisers Hyderabad,129,21,217,6,168.217,177.87,36.167,30.233,31.759,31.372,0.388,0.517,1.237,19.0,0.297,77
+3647,10,Shreyas Iyer,India,Punjab Kings,455,40,694,13,152.527,154.525,53.385,19.56,22.428,5.779,16.648,0.655,1.208,17.0,0.283,366
